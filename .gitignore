@@ -1,0 +1,16 @@
+# Build
+*.class
+/target/
+
+
+# Git
+
+# Idea
+*.iml
+.idea
+
+# Gradle
+.gradle
+
+# Eclipse
+*.project
